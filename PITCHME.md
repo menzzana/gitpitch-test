@@ -1,10 +1,8 @@
 ## Test tables
 
-@snap[text-8]
 | Computer | head1 | head2
 | --- | --- | ---
 | entry1 | entry2 | entry3
-@snapend
 
 ---
 

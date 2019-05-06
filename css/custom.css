@@ -37,12 +37,8 @@
   color: #62922e;
   }
 
-.align-left {
-  text-align: left;
-  }
-
-.align-right {
-  text-align: right;
+.table {
+  font-size: 8px;
   }
 
 .with-border {
