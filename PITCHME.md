@@ -1,8 +1,8 @@
 ## Test tables
 
-Computer | head1  | head2  |
--------- | ------ | ------ |
-entry1   | entry2 | entry3 |
+| Computer | head1  | head2  |
+| -------- | ------ | ------ |
+| entry1   | entry2 | entry3 |
 
 ---
 
@@ -28,6 +28,10 @@ size 6 text
 
 @snap[text-04]
 size 4 text
+@snapend
+
+@snap[text-01]
+size 1 text
 @snapend
 
 ---
