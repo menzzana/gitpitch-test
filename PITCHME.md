@@ -1,8 +1,8 @@
 ## Test tables
 
-| Computer | head1  | head2  |
-| -------- | ------ | ------ |
-| entry1   | entry2 | entry3 |
+| Computer | head1 | head2
+| --- | --- | ---
+| entry1 | entry2 | entry3
 
 ---
 
