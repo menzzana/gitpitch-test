@@ -2,7 +2,7 @@
 
 | Computer | head1 | head2
 | --- | --- | ---
-| entry1 | entry2 | entry34
+| entry1 | entry2 | entry32
 
 ---
 
