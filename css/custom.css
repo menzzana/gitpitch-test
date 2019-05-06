@@ -37,7 +37,15 @@
   color: #62922e;
   }
 
-.table {
+.reveal table {
+  font-size: 8px;
+  }
+
+.reveal td {
+  font-size: 8px;
+  }
+
+.reveal tr {
   font-size: 8px;
   }
 
