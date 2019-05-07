@@ -36,3 +36,8 @@ size 1 text
 
 ---
 
+@snap[east span-33 text-06]
+---?image=assets/img/thor_wikfeldt.png&position=left
+#### @size[0.6em](Molecular Dynamics)
+@snapend
+
