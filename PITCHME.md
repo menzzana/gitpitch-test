@@ -36,5 +36,6 @@ size 1 text
 
 ---
 
-@css[text-04](This works well one line
-and for multiple lines as well or only a single one?)
+@snap[north]
+@css[text-04](This works well one line and for multiple lines as well or only a single one?)
+@snapend
