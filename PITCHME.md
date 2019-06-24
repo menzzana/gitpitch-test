@@ -42,26 +42,9 @@ size 1 text
 
 ---
 
-* Install dependencies
-
 ```
-build-essential
-libssl-dev
-uuid-dev
-libgpgme11-dev
-squashfs-tools
-libseccomp-dev
-wget
-pkg-config
-git
+My code should be here
 ```
-
-* Install go (version 1.12.6 2019-06-19)
-* Install singularity from source (version 3.2.1-1 2019-06-18)
-
-Follow instructions at https://www.sylabs.io/guides/3.2/user-guide/installation.html
-
-Singularity cannot be installed on Mac or Windows, but can be used via VMs
 
 ---
 
