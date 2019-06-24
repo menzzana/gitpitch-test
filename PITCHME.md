@@ -50,7 +50,7 @@ My code should be here
 
 * Install dependencies
 
-```
+```bash
 build-essential
 libssl-dev
 uuid-dev
