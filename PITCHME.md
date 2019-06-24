@@ -39,3 +39,41 @@ size 1 text
 @snap[north]
 @css[text-04](This works well one line and for multiple lines as well or only a single one?)
 @snapend
+
+---
+
+* Install dependencies
+
+```
+build-essential
+libssl-dev
+uuid-dev
+libgpgme11-dev
+squashfs-tools
+libseccomp-dev
+wget
+pkg-config
+git
+```
+
+* Install go (version 1.12.6 2019-06-19)
+* Install singularity from source (version 3.2.1-1 2019-06-18)
+
+Follow instructions at https://www.sylabs.io/guides/3.2/user-guide/installation.html
+
+Singularity cannot be installed on Mac or Windows, but can be used via VMs
+
+---
+
+* Install dependencies
+
+```
+build-essential
+libssl-dev
+uuid-dev
+libgpgme11-dev
+squashfs-tools
+git
+```
+
+---
