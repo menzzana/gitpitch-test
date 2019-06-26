@@ -4,5 +4,13 @@ background : img/background.png
 
 # Theme
 
-theme-override : css/custom.css
-theme :  white
+theme            : template
+
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#1954a6", "none" ]
+theme-byline     : [ "Raleway", "#1954a6", "none" ]
+theme-text       : [ "Ubuntu", "#65656c", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]

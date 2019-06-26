@@ -42,6 +42,15 @@ size 1 text
 
 ---
 
+# First H1
+## H2
+### H3
+#### H4
+##### H5
+######H6
+
+And then some text
+
 ```
 My code should be here
 ```
