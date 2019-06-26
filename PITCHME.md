@@ -47,7 +47,7 @@ size 1 text
 ### H3
 #### H4
 ##### H5
-######H6
+###### H6
 
 And then some text
 
