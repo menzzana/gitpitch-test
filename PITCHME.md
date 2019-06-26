@@ -51,11 +51,9 @@ size 1 text
 
 And then some text
 
-```
-My code should be here
-```
-
 ---
+
+### H3 title on code
 
 * Install dependencies
 
